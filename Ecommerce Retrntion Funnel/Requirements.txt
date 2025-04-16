@@ -1,0 +1,1 @@
+The purpose of this project was to query a rideshare app's database to locate the most popular times, locations, and weather for trips. 
