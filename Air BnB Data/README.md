@@ -2,7 +2,13 @@
 
 ## 📊 Project Overview
 
-This Business Intelligence project analyzes Airbnb vacation rental data in **Manhattan, NYC**, using **Excel**. The objective is to identify pricing trends, optimize host strategies, and improve booking efficiency. The analysis includes location-based pricing, availability patterns, and host performance, with interactive dashboards built for strategic insights.
+This Business Intelligence project analyzes Airbnb vacation rental data in **Manhattan, NYC**, using **Excel**. The objective is to identify pricing trends and preferences amongst renters to inform a real estate business whiuch properties to invest in. Recommendations were given based on answering these questions: 
+
+Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals?
+How much money did these listings generate?Which 10 neighborhoods are most attractive for vacation rentals? 
+Which size properties?
+Do different neighborhoods have different preferences for property sizes?How much money did the most attractive listings generate and improve booking efficiency.
+-The analysis includes location-based pricing, availability patterns, and host performance, with interactive dashboards built for strategic insights.
 
 ---
 
@@ -143,12 +149,23 @@ This Business Intelligence project analyzes Airbnb vacation rental data in **Man
 **Richard Neumann**  
 Business Intelligence & Data Analyst  
 📍 New York City  
+🎯 Passionate about translating raw data into actionable business insights that drive customer satisfaction, growth, and retention.
 
+---
+
+## 📄 Project File
+
+📂 [Google Sheets Workbook (view-only)](https://docs.google.com/spreadsheets/d/1srEGV8UtaXDgyIr1geZMiXTctbmQVDN1zIBrpzWHL_s/edit?usp=sharing))
 
 ---
 
 ## 📫 Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/richard-neumann)  
+Want to collaborate or have questions about the project?  
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/richard-neumann) or check out more on GitHub!
+)
+
+
+
 
 
