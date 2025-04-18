@@ -1,7 +1,7 @@
 # 🎵 Fresh Beats Data Analysis
 
 **Status Report Project**  
-This was an introductory project to learn what constitues a data analysis and how it should be presented to stakeholders in my business intelligence analytics bootcamp. 
+This was an introductory project to learn what constitues a proper data analysis and how it should be presented to stakeholders in my business intelligence analytics bootcamp. 
 
 ---
 
