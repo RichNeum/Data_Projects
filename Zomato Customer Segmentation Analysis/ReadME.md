@@ -157,6 +157,9 @@ Business Intelligence & Data Analyst
 📍 New York City  
 🎯 Passionate about using data to drive strategic decisions in tech, healthcare, and government.
 
+## 🔗 View the Interactive Dashboard
+
+👉 [View on Power BI Website](https://app.powerbi.com/groups/me/reports/a8a50495-dd51-4271-ac55-6fe857b3a3c9/9daf7eb0c18c6c28680e?experience=power-bi)
 ---
 
 ## 📫 Contact
