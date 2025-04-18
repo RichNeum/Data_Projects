@@ -32,8 +32,8 @@ Do different neighborhoods have different preferences for property sizes?How muc
 
 ## 🎯 Project Goals
 
-- Analyze price variations across Manhattan neighborhoods.  
-- Examine availability and occupancy rates to identify underutilized listings.  
+- Analyze top Manhattan neighborhoods to identify renter preferences amongst various choices in rental markets.  
+- Examine availability and occupancy rates to identify to identify trends.  
 - Understand host behavior and listing performance.  
 - Provide recommendations to increase visibility, occupancy, and revenue.
 
@@ -55,7 +55,7 @@ Do different neighborhoods have different preferences for property sizes?How muc
 - Properties with **no reviews in the last 12 months** were considered inactive.  
 - Reviews reflect rental frequency; used `number_of_reviews_ltm` to measure a listing's attractiveness.  
 - **Super luxury listings** (price > $1,321.21) and **extremely low-priced listings** (< $85.28) were filtered out as outliers.  
-- **Building staff** refers to listings with **doormen**.
+
 
 ---
 
