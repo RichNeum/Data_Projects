@@ -81,7 +81,8 @@ This Superstore Returns Analysis leverages Tableau’s advanced visualization ca
 
 ## 🔗 View the Interactive Dashboard
 
-👉 [View on Tableau Public](#) *(Replace with your Tableau Public link)*
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/richard.neumann/viz/AnalysisReturnRates/ExecutiveSummary?publish=yes)
+
 
 ---
 
