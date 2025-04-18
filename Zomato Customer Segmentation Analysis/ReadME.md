@@ -105,31 +105,40 @@ Segments users into personas:
 **Use case**: Tailor retention strategies and promotions for each segment.
 
 ---
+## 🔍 Key Insights
 
-## 🔎 Key Insights
+- 22% of Zomato users are classified as dormant, having never placed an order, indicating a substantial inactive user base.
+- The user demographic is predominantly younger, with the average age being 25 years, 70% identifying as single, and 53% as students.
+- 48% of users report no income, signifying a price-sensitive cohort with potentially low disposable income.
+- The majority (68%) reside in households with 3–6 members, which suggests opportunities for family-centric marketing strategies.
+- Housewives, although a smaller segment, exhibit higher average spend per capita than other groups, warranting targeted high-value offers.
+- The platform experiences 99.6% of orders on weekdays, with a pronounced peak on Fridays; weekends show significantly lower transaction volumes.
+- A notable drop in activity is observed between July and September, likely attributed to the academic calendar and student vacations.
+- Cuisine preferences are dominated by Indian, Chinese, and hybrid Indian/Chinese offerings, indicating a preference for these cuisines.
+- Major Quick Service Restaurants (QSRs) such as Domino’s and KFC show strong performance metrics where brand-specific data is available.
 
-- **Loyal Users**: Clustered around specific regions and age groups (25-34).
-- **Gender Trends**: Males showed higher frequency of orders; females had higher AOV.
-- **Dormant Users**: High-value customers with declining engagement in recent months.
-- **High LTV**: Concentrated among users in RFM category "loyal customers" with frequent and recent purchases.
+## 💡 Strategic Opportunities
 
----
+- Implement **re-engagement campaigns** to target dormant users, utilizing personalized incentives to drive reactivation.
+- Develop **targeted student programs**, leveraging the high concentration of students within the user base to maximize user acquisition and retention.
+- Introduce **budget-friendly meal options** to cater to the price-sensitive segment, including singles and low-income earners.
+- Promote **family-oriented meal bundles** and group-based incentives to leverage the large household segment (3–6 members).
+- Execute **segmentation-based marketing** focused on user occupation (e.g., self-employed, homemakers) to increase conversion rates.
+- Enhance **weekday monetization** by optimizing promotional offers during peak weekdays (Friday), and address **weekend underperformance** by diversifying weekend-specific offers.
+- Launch **seasonal promotions** to counter the summer lull and optimize engagement during low-traffic periods (July–September).
+- Expand offerings in the **Indian/Chinese fusion cuisine** category, and implement **cuisine-specific marketing** to drive niche engagement.
 
-## 🚀 Strategic Opportunities
+## ✅ Recommended Actions
 
-- **Retention Campaigns**: Target “At Risk” and “Occasional Browsers” segments with win-back offers.
-- **Loyalty Programs**: Incentivize repeat purchases among mid-tier customers.
-- **Personalized Promotions**: Use demographic data to send targeted deals.
-- **Optimize AOV**: Bundle offerings or upsell during checkout to boost transaction value.
-
----
-
-## ✅ Recommendations
-
-- Develop re-engagement campaigns for inactive high-spending users.
-- Launch targeted referral programs focused on top-performing segments.
-- Use segmentation to tailor email marketing and push notifications.
-- Monitor RFM scores monthly to proactively manage churn risk.
+- **User Re-engagement**: Deploy personalized push notifications, first-order discounts, and reactivation campaigns for dormant users.
+- **Student-Centric Campaigns**: Roll out tailored meal plans, loyalty programs, and exclusive student discounts to address the high proportion of student users.
+- **Cost-Efficient Bundles**: Design and market affordable meal bundles that appeal to singles and lower-income segments, with volume-based discounts.
+- **Family-Oriented Meal Bundles**: Develop combo packages and group-order incentives, highlighting value for larger households.
+- **Behavioral Segmentation**: Leverage user occupation and spending patterns to deliver hyper-targeted promotions and customized marketing content.
+- **Weekday Promotions**: Optimize the Friday peak by offering exclusive weekday-only deals, loyalty rewards, and limited-time discounts.
+- **Weekend Incentives**: Introduce curated weekend-specific offers, such as weekend-only discounts or exclusive meal kits, to boost weekend sales.
+- **Seasonal Campaigns**: Develop summer-themed offerings and reward continuous engagement to mitigate seasonal declines in usage.
+- **Cuisine-Focused Marketing**: Implement weekly promotional campaigns focused on popular cuisines like “Top Indian Picks” or “Fusion Feast,” driving awareness and engagement.
 
 ---
 
