@@ -264,9 +264,4 @@ Want to collaborate or have questions about the project?
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/richard-neumann) or check out more on GitHub!
 )
 
----
 
-## 📫 Contact
-
-Want to collaborate or have questions about the project?  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/richard-neumann) or check out more on GitHub!
