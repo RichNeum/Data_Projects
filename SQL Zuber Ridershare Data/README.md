@@ -60,8 +60,8 @@ The project uses **SQL** to query and manipulate large datasets, providing insig
 
 - **SQL** – Data querying and manipulation  
 - **PostgreSQL** – Database management system  
-- **Microsoft Excel** – Data cleaning and initial analysis (if applicable)  
-- **Data Visualization** – (Possible future implementation, e.g., Power BI or Tableau for reporting)
+- **Microsoft Excel** – Data cleaning and initial analysis 
+- **Data Visualization** – future implementation (Power BI or Tableau for reporting)
 
 ---
 
