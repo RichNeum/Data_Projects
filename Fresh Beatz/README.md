@@ -1,7 +1,7 @@
 # 🎵 Fresh Beats Data Analysis
 
 **Status Report Project**  
-*Completed independently after the TripleTen Business Intelligence Analytics Program*
+This was an introductory project to learn what constitues a data analysis and how it should be presented to stakeholders in my business intelligence analytics bootcamp. 
 
 ---
 
@@ -100,12 +100,18 @@ This project highlights the importance of data-driven strategies in understandin
 - Google Docs
 - Data Analysis & Reporting Framework provided by TripleTen
 
+## 👤 Author
+
+**Richard Neumann**  
+Business Intelligence & Data Analyst  
+📍 New York City  
+🎯 Passionate about translating raw data into actionable business insights that drive customer satisfaction, growth, and retention.
+
 ---
 
-## 📬 Contact
+## 📫 Contact
 
-For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/yourusername/fresh-beats-data-analysis/issues).
+Want to collaborate or have questions about the project?  
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/richard-neumann) or check out more on GitHub!
+)
 
----
-
-*This project was created as an optional extension of the TripleTen Business Intelligence Analytics Program to demonstrate data storytelling and stakeholder communication skills.*
